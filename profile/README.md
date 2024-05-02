@@ -25,7 +25,7 @@ types de données, ...). Une fois cette vérification effectuée, on procède à
 
 ## Schéma de la base de donnée
 
-TODO
+![schema-mongo](https://github.com/ErrBmb/.github/assets/24733746/ad2bd990-8510-42a2-b33c-f513fe456be2)
 
 ## Étudiants
 
